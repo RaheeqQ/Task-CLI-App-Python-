@@ -14,7 +14,6 @@ from operations import (
 
 def main():
     tasks = load_from_file("tasks.json")
-    print(tasks)
     task_id = 0
     while True:
         print("________________________Task Menu________________________")
