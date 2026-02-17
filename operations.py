@@ -2,7 +2,7 @@ import json
 import os
 
 
-status_list = ["Pinding", "In Progress", "Complete", "Cancelled"]
+status_list = ["Pending", "In Progress", "Complete", "Cancelled"]
 priority_list = [i for i in range(6)]
 
 
@@ -55,7 +55,7 @@ def add_task(tasks):
 
 def display_tasks(tasks):
     print("All tasks: ")
-    print(tasks)
+    print(json.dumps(tasks, indent=4))
     print("Tasks displayed successfully")
 
 
