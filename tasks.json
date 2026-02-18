@@ -3,7 +3,7 @@
         "title": "python",
         "description": "tutorial ",
         "status": "Complete",
-        "priority": 2
+        "priority": 1
     },
     "2": {
         "title": "java",
@@ -15,30 +15,6 @@
         "title": "c++",
         "description": "tutorial",
         "status": "Complete",
-        "priority": 1
-    },
-    "4": {
-        "title": "gg",
-        "description": "gg",
-        "status": "Complete",
-        "priority": 1
-    },
-    "5": {
-        "title": "d",
-        "description": "dd",
-        "status": "Complete",
-        "priority": 2
-    },
-    "6": {
-        "title": "d",
-        "description": "dd",
-        "status": "Complete",
-        "priority": 2
-    },
-    "7": {
-        "title": "d",
-        "description": "d",
-        "status": "Pinding",
         "priority": 1
     }
 }
